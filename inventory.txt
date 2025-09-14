@@ -1,0 +1,5 @@
+2, TV, 1, 100000.0
+3, MobilePhones, 10, 350000.0
+1, Laptop, 2, 50000.0
+4, Headphones, 5, 150.0
+5, Chair, 15, 200.0
